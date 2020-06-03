@@ -1,0 +1,18 @@
+name: CrystalTeleport
+main: crystal.teleport.CrystalTeleport
+version: 2
+author: kubab162	
+commands:
+ crystal:
+  description: Dodaj kryształ
+  usage: /<comands> CrystalWarp/home/this nazwa
+ crconf:
+  description: Configuration mysql serwer
+  usage: /<comands> User Password Host Database port
+ crystalwarp:
+  usage: /<comands> or /<comands> new [name] or /<comands> delete [name]
+  description: Get all warp or create, delete
+ crystalhome:
+  usage: /<comands>
+  description: Ustawia set homa Crystal Teleport
+  
